@@ -6,4 +6,4 @@ streamlit-option-menu==0.3.6
 prophet==1.1.4
 pystan==2.19.1.1
 cython==0.29.32
-numpy==1.21.5
+numpy==1.21.1
